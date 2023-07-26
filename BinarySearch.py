@@ -18,7 +18,7 @@ def binarySearch_iterative(lst, target):
 
 
 mylist = [1,2,4,8,10,18,100]
-# print(binarySearch_iterative(mylist, 100))
+print(binarySearch_iterative(mylist, 100))
 
 ##################################################
 
